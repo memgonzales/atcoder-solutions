@@ -14,3 +14,14 @@ Official Editorial: [https://atcoder.jp/contests/abc282/editorial](https://atcod
 | [D - Make Bipartite 2](https://atcoder.jp/contests/abc282/tasks/abc282_d)          | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20282/d.cpp) |
 | [E - Choose Two and Eat One](https://atcoder.jp/contests/abc282/tasks/abc282_e)    | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20282/e.cpp) |
 | [F - Union of Two Sets](https://atcoder.jp/contests/abc282/tasks/abc282_f)         | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20282/f.cpp) |
+
+### HHKB Programming Contest 2022 Winter ([AtCoder Beginner Contest 282](https://atcoder.jp/contests/abc282))
+
+Official Editorial: [https://atcoder.jp/contests/abc283/editorial](https://atcoder.jp/contests/abc282/editorial)
+
+| Problem                                                                      | Solution                                                                                                           |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [A - Power](https://atcoder.jp/contests/abc283/tasks/abc283_a)               | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20283/a.cpp) |
+| [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20283/b.cpp) |
+| [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c)       | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20283/c.cpp) |
+| [D - Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d)               | [C++](https://github.com/memgonzales/competitive-programming/blob/master/AtCoder%20Beginner%20Contest%20283/d.cpp) |
